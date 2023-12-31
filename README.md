@@ -1,5 +1,5 @@
 # 42Cursus
-## 👋, This repository has my 42 common core projects developed at <a href="https://1337.ma/">1337 coding school.</a>
+<p>👋,<i>This repository has my 42 common core projects developed at <a href="https://1337.ma/">1337 coding school.</a></i></p>
 
 ## 🗣️ About 42
 
