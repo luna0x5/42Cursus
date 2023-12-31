@@ -11,4 +11,7 @@
 
 \* For further information about 42's **selection process** (the "Piscine"), please visit the [The Pool](https://1337.ma/en/the-pool/).
 
-[![Photo of a 1337's cluster](cluster.jpg)](https://www.1337.ma/)
+<br>
+
+![1337's cluster](Cluster.jpeg)
+
