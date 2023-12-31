@@ -1,0 +1,3 @@
+[submodule "42Cursus-libft"]
+	path = 42Cursus-libft
+	url = https://github.com/luna0x5/42Cursus-libft.git
